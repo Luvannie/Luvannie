@@ -55,5 +55,14 @@ Focusing on building high-performance, high-availability distributed systems, mi
 ---
 
 ### 📫 Connect with Me
-- **Core Domains:** Microservices Patterns | Distributed Systems Reliability | Concurrency Programming
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anh-nguyen-a665111a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/nhatanh.nguyen.00?locale=vi_VN" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
 - **GitHub Profile:** [github.com/Luvannie](https://github.com/Luvannie)
